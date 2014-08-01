@@ -1,0 +1,7 @@
+[
+  {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1212", "color":"pink", "website":"http://fox.com"},
+  {"name":"John Doe", "email":"john@doe.com", "phone":"1-800-888-8808", "color":"purple", "website":"http://cnn.com"},
+  {"name":"Jane Doe", "email":"jdoe@yahoo.com", "phone":"615-888-8808", "color":"orange", "website":"http://google.com"},
+  {"name":"Jose Garcia", "email":"garcia_j@google.com", "phone":"615-555-8876", "color":"blue", "website":"http://msnbc.com"},
+  {"name":"Yer Mom", "email":"i_tapped_that@juno.com", "phone":"615-937-3591", "color":"red", "website":"http://netflix.com"}
+]
