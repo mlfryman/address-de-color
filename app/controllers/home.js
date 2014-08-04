@@ -13,5 +13,5 @@ exports.faq = function(req, res){
 };
 
 exports.contact = function(req, res){
-  res.render('home/contacts');
+  res.render('home/contact');
 };
